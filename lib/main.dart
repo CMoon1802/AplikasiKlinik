@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:tugas_akhir/screens/admin/home/admin_home_screen.dart';
 import 'package:tugas_akhir/screens/login/login_screen.dart';
 
 void main() {
